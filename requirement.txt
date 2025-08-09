@@ -1,0 +1,9 @@
+opencv
+os
+scikit-learn #for KNeighborsClassifier Algorithm
+csv
+pickle
+datetime
+pywin32 #for win32com.client
+sqlite3
+numpy in dataset.py
